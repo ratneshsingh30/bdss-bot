@@ -1,0 +1,14 @@
+streamlit
+transformers
+peft
+datasets
+accelerate
+torch
+sentencepiece
+bitsandbytes
+python-pptx
+PyPDF2
+python-docx
+pytesseract
+Pillow
+PyMuPDF
