@@ -1,0 +1,7 @@
+[
+  {
+    "instruction": "Solve the MCQ below with explanation and provide the correct option.",
+    "input": "Which of the following best describes the anchoring bias?\nA. Ignoring base rates\nB. Relying on the first information given\nC. Making random choices\nD. Overestimating rare events",
+    "output": "Anchoring bias refers to the tendency to rely too heavily on the first piece of information received (the 'anchor') when making decisions.\nCorrect Option: B"
+  }
+]
